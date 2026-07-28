@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<a href="https://githubroast.dev/u/7hgyk"><img src="https://githubroast.dev/api/card/7hgyk?theme=dark" alt="GitHub Roast" width="600" /></a>
+<a href="https://ghfind.com/u/7hgyk?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/7hgyk?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/7hgyk?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 
 ![snake](https://raw.githubusercontent.com/7hgyk/7hgyk/output/github-snake.svg)
 
